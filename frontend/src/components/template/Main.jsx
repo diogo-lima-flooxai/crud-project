@@ -6,6 +6,6 @@ export default props =>
   <React.Fragment>
     <Header />
     <main className='content'>
-      <h1>Conteúdo</h1>
+      Conteudo
     </main>
   </React.Fragment>
